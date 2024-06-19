@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+- 使用React 18框架构建用户界面，集成React Router进行路由管理。
+- 使用Axios与后端API进行通信，确保数据同步。
+- 通过HTML5和CSS3进行页面布局和样式设计，提升用户体验。
